@@ -1,0 +1,2 @@
+#Welcome to the Repo for rookies.
+Here we build projects and add them to the repository. Contributing to open-source can be hard to start, but that's the reason for the Rookie Repo. The Rookie Repo is a repository for beginner-level projects, thus allowing you to contribute to open-source projects.
