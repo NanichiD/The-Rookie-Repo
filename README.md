@@ -1,30 +1,13 @@
-# Project Name
+# The Rookie Repo
 
 <img src="images/logo.png" alt="Project Logo" align="center">
 
-## Description
+## What's the Rookie Repo?
 
-A brief description of your awesome project goes here. Highlight its main features and purpose.
+Contributing to open-source projects can be scary😱 for beginners, thata where The Rookie Repo comes in. The Rookie Repo is a space for rookies in open-source contribution to contribute to fun beginner-friendly projects.
 
-## Installation
+## How To Contribute
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
-3. Install dependencies: `npm install`
+1. Clone the any repository within the Rookie Repo repository and,
+2. Start contributing 
 
-## Usage
-
-Explain how to use your project, provide code snippets, and mention any configuration needed.
-
-## Features
-
-- **Feature 1:** Describe what this feature does
-- **Feature 2:** Explain the functionality of the second feature
-- ...
-
-## Screenshots
-
-Include screenshots or GIFs showcasing your project. You can create a 'screenshots' directory and reference the images like this:
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.gif)
