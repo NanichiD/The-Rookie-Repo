@@ -9,5 +9,6 @@ Contributing to open-source projects can be scary😱 for beginners, thata where
 ## How To Contribute
 
 1. Clone the any repository within the Rookie Repo repository and,
-2. Start contributing 
+2. Start contributing
+3. Make a pull request and wait for approval
 
